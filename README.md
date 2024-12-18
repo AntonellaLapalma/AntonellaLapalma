@@ -74,7 +74,6 @@ I love working on projects where I can learn new things, collaborate with others
 -->
 <hr>
 <h4 align="center">Contact me! – <a href="mailto:antonellalapalma97@gmail.com">antonellalapalma97@gmail.com</a>
-<hr>
 
 <!--📏LINE
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">-->
