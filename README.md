@@ -1,6 +1,7 @@
 <!--PORTADA-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="1050">
-<h1 align="center"">Hi There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Antonella Lapalma</h1>
+<h1 align="center">Hi There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Antonella Lapalma</h1>
+
 <p align="center"><strong>Frontend Developer · Full Stack Python Developer · Game Developer</strong></p>
 <!--CONTACTO-->
 <div align="center">
