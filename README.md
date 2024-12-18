@@ -1,5 +1,5 @@
 <!--PORTADA-->
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="1050">
 <h1 align="center"">Hi There!, I'm Antonella Lapalma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="center"><strong>Frontend Developer · Full Stack Python Developer · Game Developer</strong></p>
 <!--CONTACTO-->
@@ -10,13 +10,13 @@
   <a href="https://antonellalapalma.github.io/Portfolio/">![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=flat&logo=Google-Chrome&logoColor=white)</a>
   
 </div>
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="1050">
 
 <br>
 
 <!--SOBRE MI-->
 <h3 align="center">ABOUT</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="1050">
 
 <p align="center">I am a <strong>software developer</strong>, currently a student in the <strong>Bachelor’s degree in Game Development and Production</strong>, an area that perfectly combines my passion for technology and creativity. During my training, I had the opportunity to take courses in <strong>Frontend Development</strong> and <strong>Full Stack Python</strong>, which helped me expand my knowledge and discover different aspects of development.
 <br><br>
@@ -32,7 +32,7 @@ I love working on projects where I can learn new things, collaborate with others
 
 <!--SKILLS-->
 <h3 align="center">TECH STACK</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="1050">
 
 <div align="center">
   
@@ -48,7 +48,7 @@ I love working on projects where I can learn new things, collaborate with others
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/%23-%236800F7FF.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%236800F7FF.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
@@ -57,14 +57,14 @@ I love working on projects where I can learn new things, collaborate with others
 <br><br>
 
 <h3 align="center">GITHUB STATS</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="1050">
 
 <p align="center">
 <a href="https://github.com/antonellalapalma/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonellalapalma&layout=compact&theme=dark">
 </p>
 <br><br>
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="1050">
 <h4 align="center">Contact me! – <a href="mailto:antonellalapalma97@gmail.com">antonellalapalma97@gmail.com</a>
 <!--
 <p align="left"> 
