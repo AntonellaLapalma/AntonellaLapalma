@@ -16,6 +16,7 @@
 
 <!--SOBRE MI-->
 <h3 align="center">ABOUT</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">
 
 <p align="center">I am a <strong>software developer</strong>, currently a student in the <strong>Bachelor’s degree in Game Development and Production</strong>, an area that perfectly combines my passion for technology and creativity. During my training, I had the opportunity to take courses in <strong>Frontend Development</strong> and <strong>Full Stack Python</strong>, which helped me expand my knowledge and discover different aspects of development.
 <br><br>
@@ -31,6 +32,7 @@ I love working on projects where I can learn new things, collaborate with others
 
 <!--SKILLS-->
 <h3 align="center">TECH STACK</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">
 
 <div align="center">
   
@@ -55,12 +57,15 @@ I love working on projects where I can learn new things, collaborate with others
 <br><br>
 
 <h3 align="center">GITHUB STATS</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">
 
 <p align="center">
 <a href="https://github.com/antonellalapalma/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonellalapalma&layout=compact&theme=dark">
 </p>
 <br><br>
 
+<hr>
+<h4 align="center">Contact me! – <a href="mailto:antonellalapalma97@gmail.com">antonellalapalma97@gmail.com</a>
 <!--
 <p align="left"> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
@@ -72,9 +77,6 @@ I love working on projects where I can learn new things, collaborate with others
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonellalapalma&theme=dark)](https://github.com/antonellalapalma/github-readme-stats)
 -->
-<hr>
-<h4 align="center">Contact me! – <a href="mailto:antonellalapalma97@gmail.com">antonellalapalma97@gmail.com</a>
-
 <!--📏LINE
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1050">-->
 <!--
