@@ -19,7 +19,7 @@
 <h3 align="center">ABOUT</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="1050">
 
-<p align="center">I am a <strong>software developer</strong>, currently a student in the <strong>Bachelor’s degree in Game Development and Production</strong>, an area that perfectly combines my passion for technology and creativity. During my training, I had the opportunity to take courses in <strong>Frontend Development</strong> and <strong>Full Stack Python</strong>, which helped me expand my knowledge and discover different aspects of development.
+<p align="center">I am a <strong>`software developer`</strong>, currently a student in the <strong>Bachelor’s degree in Game Development and Production</strong>, an area that perfectly combines my passion for technology and creativity. During my training, I had the opportunity to take courses in <strong>Frontend Development</strong> and <strong>Full Stack Python</strong>, which helped me expand my knowledge and discover different aspects of development.
 <br><br>
 I love working on projects where I can learn new things, collaborate with others, and contribute ideas that truly make a difference. I am always looking for challenges that allow me to grow, both professionally and personally.</p>
 
