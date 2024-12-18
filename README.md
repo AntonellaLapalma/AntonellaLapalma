@@ -1,7 +1,7 @@
 <!--PORTADA-->
 <hr>
 <h1 align="center"">Antonella Lapalma</h1>
-<p align="center"><strong>Frontend Developer · Full Stack Python Developer · Software Developer</strong></p>
+<p align="center"><strong>Frontend Developer · Full Stack Python Developer · Game Developer</strong></p>
 <!--CONTACTO-->
 <div align="center">
   
