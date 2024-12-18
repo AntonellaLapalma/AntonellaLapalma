@@ -24,7 +24,7 @@ I love working on projects where I can learn new things, collaborate with others
 <div align="center">
 
 ![Age](https://img.shields.io/badge/Age%20-%2027%20-%20%23F7CB02FF)
-![Location](https://img.shields.io/badge/Location%20-%20Buenos%20Aires,%20Argentina-%20%2313AEF7FF)
+![Location](https://img.shields.io/badge/Location%20-%20Buenos%20Aires,%20Capital%20Federal-%20%2313AEF7FF)
 
 </div>
 <br><br>
