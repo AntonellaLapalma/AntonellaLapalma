@@ -1,6 +1,6 @@
 <!--PORTADA-->
 <hr>
-<h1 align="center"">Antonella Lapalma</h1>
+<h1 align="center"">Hi There!, I'm Antonella Lapalma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="center"><strong>Frontend Developer · Full Stack Python Developer · Game Developer</strong></p>
 <!--CONTACTO-->
 <div align="center">
